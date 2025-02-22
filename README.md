@@ -1,18 +1,6 @@
-## Getting Started
+Assignment 5.
+Select 1 or 2 for integer or file reading.
+The integer selected will be the number of rows and columns for the square matrix. It create 2 separate ones, and write them to a file. Then, it will perform matrix multiplication and write the result to a file.
+If you enter 2 file names that exist, it will read the matrices in these files. It will perform matrix multiplication and write the result to a file.
+It's recommended to do option 1 first, so that there will be 2 files (with matrices in them) that you can read for the 2nd option.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
